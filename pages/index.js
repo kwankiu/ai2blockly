@@ -4,14 +4,14 @@ import styles from '../styles/Home.module.css'
 
 import React from 'react';
 
-import BlocklyComponent, { Block, Value, Field, Shadow, Category } from './Blockly';
+import BlocklyComponent, { Block, Value, Field, Shadow, Category } from '../lib';
 
 import BlocklyJS from 'blockly/javascript';
 
-import './blocks/lists';
-import './blocks/math';
-import './blocks/customblocks';
-import './generator/generator';
+import '../lib/blocks/lists';
+import '../lib/blocks/math';
+import '../lib/blocks/customblocks';
+import '../lib/generator/generator';
 
 export default function Home() {
 
