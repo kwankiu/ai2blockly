@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 import React from 'react';
 
-import BlocklyComponent, { Block, Value, Field, Shadow, Category } from '../lib';
+import BlocklyComponent, { Block, Value, Field, Shadow, Category } from './blockly';
 
 import BlocklyJS from 'blockly/javascript';
 
