@@ -31,14 +31,27 @@ This is a NextJS Project which uses the standard blockly package from npm.
 **Before you begin, you will need to install [`npm`](https://nodejs.org/en/download/) and [`yarn`](https://yarnpkg.com/en/docs/install).**
 
 To install the required node packages :
-`yarn install`
+
+```
+yarn install
+```
 
 To run a dev server :
-`yarn dev`
+
+```
+yarn dev
+```
+
 
 To build for production :
-`yarn build`
+
+```
+yarn build
+```
 
 To run production server :
-`yarn start`
+
+```
+yarn start
+```
 
