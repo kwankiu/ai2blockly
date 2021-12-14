@@ -28,7 +28,7 @@ This is a NextJS Project which uses the standard blockly package from npm.
  
  ## Run from Local
 
-**Before you begin, you will need to install [`npm`](https://nodejs.org/en/download/) and [`yarn`](https://yarnpkg.com/en/docs/install).**
+**Before you begin, you will need to install [`nodejs`](https://nodejs.org/en/download/) and [`yarn`](https://yarnpkg.com/en/docs/install).**
 
 To install the required node packages :
 
