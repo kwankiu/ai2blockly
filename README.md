@@ -26,4 +26,19 @@ This is a NextJS Project which uses the standard blockly package from npm.
  - sw.js: serviceWorker required for Blockly
  - *.bky, *.aia: Debug files
  
- 
+ ## Run from Local
+
+**Before you begin, you will need to install [`npm`](https://nodejs.org/en/download/) and [`yarn`](https://yarnpkg.com/en/docs/install).**
+
+To install the required node packages :
+`yarn install`
+
+To run a dev server :
+`yarn dev`
+
+To build for production :
+`yarn build`
+
+To run production server :
+`yarn start`
+
