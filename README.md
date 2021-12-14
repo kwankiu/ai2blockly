@@ -23,6 +23,7 @@ This is a NextJS Project which uses the standard blockly package from npm.
  Files:
  - package.json: For npm
  - next.config.js: NextJS Config
+ - sw.js: serviceWorker required for Blockly
  - *.bky, *.aia: Debug files
  
  
