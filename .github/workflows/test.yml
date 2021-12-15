@@ -1,7 +1,7 @@
 name: test
 on: [push]
 jobs:
-  check-bats-version:
+  check-node-and-yarn:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
